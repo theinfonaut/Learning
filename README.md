@@ -1,4 +1,4 @@
 Learning
 ========
 
-test repository
+Learning git and github before class starts. boom.
